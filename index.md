@@ -11,12 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Shiven's First CS193 Homework
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- I like how there's lots of time to complete homework
+- I like how you can work at your own pace
 
 1. Numbered
 2. List
@@ -25,6 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Shiven's First CS193 Homework
+- I like how there's lots of time to complete homework
+- I like how you can work at your own pace
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
